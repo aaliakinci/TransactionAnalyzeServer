@@ -1,4 +1,6 @@
 # Transaction Analyze Server
+🔗 **Live:** : [https://transactionanalyzeserver.onrender.com/](https://transactionanalyzeserver.onrender.com)
+🔗 **Swagger UI:** [https://transactionanalyzeserver.onrender.com/api](https://transactionanalyzeserver.onrender.com/api)
 
 ## 🚀 Overview
 Transaction Analyze Server is a **NestJS-based backend** for processing, normalizing, and analyzing financial transactions. The system uses AI-powered categorization and pattern detection to help users understand their spending habits.
@@ -21,7 +23,7 @@ Transaction Analyze Server is a **NestJS-based backend** for processing, normali
 ## 📖 API Documentation
 The API is fully documented using Swagger. You can access the Swagger UI here:
 
-🔗 **Swagger UI:** [http://localhost:3001/api](http://localhost:3001/api)
+🔗 **Swagger UI:** [https://transactionanalyzeserver.onrender.com/api](https://transactionanalyzeserver.onrender.com/api)
 
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
